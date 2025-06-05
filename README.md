@@ -1,7 +1,10 @@
-# Image_Cleaning
+# Image Cleaning
 Cleaning Images using ML Methods 
+
 Last Updated: June 5, 2025
+
 Author(s): Max Freitas, Dylan Marray
+
 ---
 **Project Goal**: Use ML methods to clean datasets before production
   - Brightness (too bright, or dim)
