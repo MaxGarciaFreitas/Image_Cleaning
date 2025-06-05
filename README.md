@@ -21,3 +21,5 @@ Author(s): Max Freitas, Dylan Marray
   - *SNN*: https://github.com/AngusNicolson/soft_nearest_neighbors
   - *Contrastive Clustering*
   - *BNN*
+- **Neural Networks**
+- - *CNN*
